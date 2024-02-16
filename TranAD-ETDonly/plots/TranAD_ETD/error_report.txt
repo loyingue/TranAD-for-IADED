@@ -1,0 +1,10 @@
+---Error Report---
+Error Rate: 0.012686567164179105
+Dimension 0: 0.0004879448909299656 (Warning Rate: 0.004879448909299655, Error Rate: 0.0)
+Dimension 1: 0.002267508610792193 (Warning Rate: 0.02267508610792193, Error Rate: 0.0)
+Dimension 2: 8.610792192881745e-05 (Warning Rate: 0.0008610792192881745, Error Rate: 0.0)
+Dimension 3: 0.0006888633754305396 (Warning Rate: 0.006888633754305396, Error Rate: 0.0)
+Dimension 4: 0.007979334098737086 (Warning Rate: 0.06544202066590127, Error Rate: 0.0014351320321469576)
+Dimension 5: 0.0002870264064293915 (Warning Rate: 0.0028702640642939152, Error Rate: 0.0)
+Dimension 6: 0.0008897818599311138 (Warning Rate: 0.008897818599311137, Error Rate: 0.0)
+Dimension 7: 0.0 (Warning Rate: 0.0, Error Rate: 0.0)
